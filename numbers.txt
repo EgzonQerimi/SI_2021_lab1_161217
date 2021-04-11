@@ -7,3 +7,14 @@
 7
 8
 9
+da
+koj
+sto
+za
+yes
+ne
+otvori
+zatvori
+no
+right
+left
